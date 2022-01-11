@@ -4,9 +4,9 @@ transformation functions of file/blob/base64
 
 ## usage
 
-`npm install blob-url-file`
+`npm install blob-url-file-js`
 
-`import { blobToBase64 } from 'blob-url-file'`
+`import { blobToBase64 } from 'blob-url-file-js'`
 
 ## blobToBase64
 
